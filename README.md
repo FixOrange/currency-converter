@@ -10,6 +10,6 @@ Simple CLI currency converter using real-time exchange rates.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/FixOrange/currency-converter.git
 cd currency-converter
 pip install -r requirements.txt
